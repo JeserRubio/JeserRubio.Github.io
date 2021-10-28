@@ -19,5 +19,22 @@ p{
   color: Brown;
 }
 .floatRight{
-  float:right;margin-left:20px
+  float:right;margin-left:20px;
+}
+.cap {
+  background-color: #183622;
+  color: white;
+  padding: 4px;
+  display: inline-block;
+  border: solid 1px;
+  border-radius: 6px;
+}
+.fig{
+  color: #9867c5;
+  font-weight: bold; 
+}
+#gyrovideo{
+   float:right;margin-left:20px;
+  height: 200px;
+  width: 200px; 
 }
